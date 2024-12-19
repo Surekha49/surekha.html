@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8?">
+<?xml.stylesheet href="faculty.xsl"type="text/xsl"?>
+<!DOCTYPE facultyss SYSTEM"faculty.dtd">
+<facultys>
+<faculty>
+<Name> dr.N.Mallikharjuna Rao</Name>
+<first sem> RDBMS </first sem>
+<second sem> co </second sem>
+<third sem> SE </third sem>
+</faculty>
+<faculty>
+<Name>P.Kavitha</Name>
+<first sem> MFCS </first sem>
+<second sem> SE </second sem>
+<third sem> WT </thirtd sem>
+</faculty>
+<faculty>
+<Name>Hari Babu</Name>
+<first sem> RDBMS </first sem>
+<second sem> CN </second sem>
+<third sem> UML <thirdsem>
+</faculty>
+<faculty>
+<Name>J.Hari Krishna</Name>
+<first sem> English </first sem>
+<second sem> Python </second sem>
+<third sem> dev.ops </third sem>
+</faculty>
+</facultys>
